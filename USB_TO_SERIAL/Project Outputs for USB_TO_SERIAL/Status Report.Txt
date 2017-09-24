@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [USB_TO_SERIAL.PrjPcb]
+   Generated File[Bill of Materials-USB_TO_SERIAL.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:14:00 PM On 9/24/2017
